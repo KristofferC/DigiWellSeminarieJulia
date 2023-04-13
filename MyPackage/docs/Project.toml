@@ -1,0 +1,5 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+LiveServer = "16fef848-5104-11e9-1b77-fb7a48bbb589"
+MyPackage = "9a8c7110-5f8f-494d-b6a7-60c0a99916f9"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"

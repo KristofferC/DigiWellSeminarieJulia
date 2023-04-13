@@ -1,0 +1,6 @@
+[deps]
+Cthulhu = "f68482b8-f384-11e8-15f7-abe071a5a75f"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+MyPackage = "9a8c7110-5f8f-494d-b6a7-60c0a99916f9"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+TypedSyntax = "d265eb64-f81a-44ad-a842-4247ee1503de"
